@@ -1,9 +1,9 @@
-numpy
-pandas
-matplotlib
-librosa
-tensorflow
-scikit-learn
 streamlit
-tqdm
+tensorflow
+numpy
+librosa
 soundfile
+scikit-learn
+matplotlib
+pandas
+tqdm
