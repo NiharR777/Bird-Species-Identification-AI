@@ -1,0 +1,8 @@
+models/bird_model.h5
+data/train_audio/
+features/X.npy
+features/y.npy
+__pycache__/
+results/
+notebooks/
+*.pyc
